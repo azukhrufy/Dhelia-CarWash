@@ -11,14 +11,15 @@
   "dependencies": {
     "lucide": "^0.554.0",
     "lucide-react": "^0.554.0",
-    "next": "16.0.4",
-    "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "next": "14.2.32",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.4",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.32",
+    "prettier": "^2.8.8",
     "tailwindcss": "^4"
   }
 }
